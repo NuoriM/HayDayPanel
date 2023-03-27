@@ -1,0 +1,8 @@
+[{ "nome": "soja", "tempo": 20 },
+{"nome": "trigo", "tempo": 2},
+{"nome": "milho", "tempo": 5},
+{"nome": "cana-de-acucar", "tempo": 30},
+{"nome": "cenoura", "tempo": 10},
+{"nome": "leite", "tempo": 60},
+{"nome": "ovo", "tempo": 20},
+{"nome": "bacon", "tempo": 240}]

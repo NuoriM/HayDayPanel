@@ -1,0 +1,11 @@
+[{"nome": "racao-de-galinha-3x", "tempo": 5, "materiais": [{"nome": "trigo", "quantidade": 2}, {"nome": "milho", "quantidade": 1}] },
+{"nome": "racao-de-vaca-3x", "tempo": 10, "materiais": [{"nome": "milho", "quantidade": 1}, {"nome": "soja", "quantidade": 2}] },
+{"nome": "racao-de-porco-3x", "tempo": 20, "materiais": [{"nome": "cenoura", "quantidade": 2}, {"nome": "soja", "quantidade": 1}] },
+{"nome": "pao", "tempo": 5, "materiais": [{"nome": "trigo", "quantidade": 3}]},
+{"nome": "pao-de-milho", "tempo": 30, "materiais": [{"nome": "trigo","quantidade": 3}] },
+{"nome": "biscoito", "tempo": 60, "materiais": [{"nome": "trigo", "quantidade": 2},{"nome": "ovo", "quantidade": 2},{"nome": "acucar-mascavo", "quantidade": 1}] },
+{"nome": "nata", "tempo": 20, "materiais": [{"nome": "leite", "quantidade": 1}] },
+{"nome": "manteiga", "tempo": 30, "materiais": [{"nome": "leite", "quantidade": 2}] },
+{"nome": "acucar-mascavo", "tempo": 20, "materiais": [{"nome": "cana-de-acucar", "quantidade": 1}] },
+{"nome": "panqueca", "tempo": 30, "materiais": [{"nome": "ovo","quantidade": 3}, {"nome": "acucar-mascavo", "quantidade": 1}] },
+{"nome": "pipoca", "tempo": 30, "materiais": [{"nome": "milho", "quantidade": 2}] }]
